@@ -1,5 +1,4 @@
-##Get Cheapest Hotel - Challenge Syngenta Digital
-
+Get Cheapest Hotel - Challenge Syngenta Digital
 ===
 
 This has been created using gradle; to run the tests, just execute:
